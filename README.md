@@ -30,8 +30,10 @@ The UI is smooth, minimalistic, and responsive — ideal for showcasing in portf
 
 ## 📹 Demo Video
 <p align="center">
-  <video src="YOUR_VIDEO_LINK_HERE" width="500" controls></video>
+  <img src="skycast/demo-gif.gif" width="500" />
 </p>
+
+[🎥 Click here to watch the Demo Video](YOUR_VIDEO_LINK)
 
 ---
 
@@ -103,9 +105,15 @@ UI updates automatically with temperature, humidity, wind & icons
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the Repo
-git clone https://github.com/yourusername/weather-application.git
+git clone 👉 https://github.com/himamteja/skycast/
 
 ---
 
 <p align="center"> ⭐ If you like this project, don't forget to star the repo! ⭐ </p> ```
 
+---
+
+## 🎉 Thank you for visiting my Project-repo!  
+<p align="center">
+  <img src="https://media.giphy.com/media/l2SqckbZRno5HfBhS/giphy.gif" width="300"/>
+</p>
