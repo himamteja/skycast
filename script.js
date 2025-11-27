@@ -1,4 +1,4 @@
-const API_KEY = '846e3793661e201185468086099cb9f2';
+const API_KEY = '1727ecd4e50a1e444752b141b950ea4d';
 const BASE_URL = 'https://api.openweathermap.org/data/2.5';
 
 // DOM Elements
@@ -445,3 +445,4 @@ style.innerHTML = `
     100% { transform: rotate(360deg); }
 }`;
 document.head.appendChild(style);
+
