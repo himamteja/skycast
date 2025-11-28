@@ -33,7 +33,7 @@ The UI is smooth, minimalistic, and responsive — ideal for showcasing in portf
   <img src="skycast/demo-gif.gif" width="500" />
 </p>
 
-[🎥 Click here to watch the Demo Video](YOUR_VIDEO_LINK)
+[🎥 Click here to watch the Demo Video](skycast/demo.mp4)
 
 ---
 
