@@ -113,6 +113,13 @@ git clone 👉 https://github.com/himamteja/skycast/
 
 ---
 
+## ✍️ Author
+
+Himamteja Peyyala
+Built with ❤️ using pure HTML, CSS, and JavaScript.
+
+---
+
 ## 🎉 Thank you for visiting my Project-repo!  
 <p align="center">
   <img src="https://media.giphy.com/media/l2SqckbZRno5HfBhS/giphy.gif" width="300"/>
